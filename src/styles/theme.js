@@ -6,12 +6,11 @@ export const theme = {
     },
     fonts: {
         sizes: {
-            xsmall: '8rem',
-            small: '1.6rem',
-            medium: '2.4rem',
-            large: '3.2rem',
-            xlarge: '4.0rem',
-            xxlarge: '4.8rem',
+            xsmall: '1.6rem',
+            small: '2.4rem',
+            medium: '3.2rem',
+            large: '4.0rem',
+            xlarge: '4.8rem',
             huge: '5.6rem',
             xhuge: '6.4rem'
 
