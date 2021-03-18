@@ -1,5 +1,5 @@
 import {renderTheme} from "../../styles/render-theme";
-import {Heading} from "./index";
+import {Heading} from "././index";
 import {screen} from "@testing-library/react";
 import {theme} from "../../styles/theme";
 
